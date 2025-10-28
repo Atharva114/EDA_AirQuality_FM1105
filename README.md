@@ -1,4 +1,3 @@
-
 # EDA - Students Performance Analysis
 
 ## 📊 Project Overview
