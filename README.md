@@ -83,9 +83,9 @@ Comprehensive Exploratory Data Analysis of Students Performance in Exams dataset
 - Gender-specific teaching strategies might be beneficial
 
 ## 👨‍💻 Author
-**Your Name**  
-**Roll No:** 23BSC001  
-**Date:** [Current Date]
+**Your Name:** Atharva Gorakshanath Gangadhare 
+**Roll No:** FM1105  
+**Date:** [29/10/2025]
 
 ---
 *This project follows comprehensive EDA guidelines for educational purposes.*
