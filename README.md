@@ -3,7 +3,7 @@ README.txt
 
 ## Dataset Overview
 
-This project involves performing an **Exploratory Data Analysis (EDA)** on the **Air Quality dataset**. The dataset contains information related to air quality measurements and various attributes that help in understanding pollution levels, air quality trends, and anomalies. The data was sourced from [insert data source here if applicable, e.g., Kaggle, UCI, etc.].
+This project involves performing an **Exploratory Data Analysis (EDA)** on the **Air Quality dataset**. The dataset contains information related to air quality measurements and various attributes that help in understanding pollution levels, air quality trends, and anomalies. The data was sourced from [insert data source here if applicable, e.g., Kaggle, UCI, etc.].Kaggle mainly
 
 ### Dataset Details:
 - **Number of Rows**: 200+
@@ -76,11 +76,25 @@ Based on the findings from this EDA, the next steps could include:
 
 ## Files in this Repository
 
-- **EDA_AirQuality.ipynb**: Jupyter Notebook containing the full analysis, including data preprocessing, EDA, and visualizations.
+- **EDA_AirQuality_FM1105.ipynb**: Jupyter Notebook containing the full analysis, including data preprocessing, EDA, and visualizations.
 - **AirQuality.csv**: The dataset file used for this analysis.
 - **README.md**: This file, providing an overview of the analysis and findings.
 
 ## Acknowledgments
 
-- [Dataset source link if applicable]
+- **Dataset Source:** https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set
+
+- ## Requirements
+To run the analysis notebook, install the following dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+- 
+#### 3. Make file references clickable
+```md
+- [EDA_AirQuality_FM1105.ipynb](EDA_AirQuality.ipynb): Jupyter Notebook containing the full analysis.
+- [AirQuality.csv](AirQuality.csv): The dataset file.
+- [README.md](README.md): This overview file.
+
 - [Libraries used: Pandas, Matplotlib, Seaborn, Scikit-learn, etc.]
+
